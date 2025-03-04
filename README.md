@@ -28,11 +28,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<!-- Gojo GIF on the right side -->
+<img align="right" height="200" src=https://media.tenor.com/bkA2JqxxfGwAAAAj/mlbb-jjk-jjk-mlbb.gif />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UltraKiba&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- Gojo GIF on the right side -->
-<img align="right" height="200" src=https://media.tenor.com/bkA2JqxxfGwAAAAj/mlbb-jjk-jjk-mlbb.gif />
 
 ---
 
