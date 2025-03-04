@@ -10,6 +10,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=UltraKiba&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" />
+
+<!-- Gojo GIF on the right side -->
+<img align="right" height="200" src="https://i.imgur.com/f83frkB.gif" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=UltraKiba&theme=nightowl&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraKiba&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
@@ -24,8 +27,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Gojo GIF on the right side -->
-<img align="right" height="200" src="https://i.imgur.com/f83frkB.gif" />
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UltraKiba&limit=5&theme=dark&combine_all_yearly_contributions=true)
