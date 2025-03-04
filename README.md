@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/f83frkB.gif" />
 
 ###
 
@@ -44,6 +44,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/UltraKiba/UltraKiba/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/UltraKiba/UltraKiba/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6atdqjokxb3w6gz2qbs0s8bop">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6atdqjokxb3w6gz2qbs0s8bop&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
