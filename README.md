@@ -34,6 +34,6 @@
 ---
 
 ## 🎵 Spotify Activity
-| Recently Played | Sora Floating |
+| Recently Played |  |
 |-----------------|---------------|
 | [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=6atdqjokxb3w6gz2qbs0s8bop&count=5&unique=true)](https://open.spotify.com/user/6atdqjokxb3w6gz2qbs0s8bop) | ![Sora](https://i.imgur.com/f83frkB.gif) |
