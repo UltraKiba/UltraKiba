@@ -9,8 +9,9 @@
 ---
 
 ## 💻 Tech Stack
-| Frontend | Backend | Mobile | DevOps | Design | <!-- Gojo GIF on the right side -->
+<!-- Gojo GIF on the right side -->
 <img align="right" height="200" src=https://media.tenor.com/bkA2JqxxfGwAAAAj/mlbb-jjk-jjk-mlbb.gif />
+| Frontend | Backend | Mobile | DevOps | Design | 
 |----------|---------|--------|--------|--------| 
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) <br> ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) <br> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) <br> ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white) <br> ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white) <br> ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white) <br> ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white) | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white) <br> ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white) |
 
