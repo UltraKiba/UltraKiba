@@ -2,7 +2,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Medi Kibambe and I am a Frontend Developer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get a job.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />I am currently learning Three.js
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />I am currently learning Data Analytics with python and Three.js
 
 ## 🌐 Social Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Medi) 
