@@ -24,11 +24,6 @@
 |------------|--------------------|
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UltraKiba&theme=nightowl&hide_border=false)](https://github.com/UltraKiba) | [![Streak](https://nirzak-streak-stats.vercel.app/?user=UltraKiba&theme=nightowl)](https://github.com/UltraKiba)<br><br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraKiba&theme=nightowl&layout=compact)](https://github.com/UltraKiba) |
 
----
-
-## 🏆 Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UltraKiba&theme=radical)](https://github.com/UltraKiba)
-[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=UltraKiba&limit=5&theme=dark)](https://github.com/UltraKiba)
 
 ---
 
